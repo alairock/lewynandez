@@ -1,15 +1,15 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Lewis
+description:    "The Little Lewis Family"
+baseurl:        "/lewynandez"
+url:            "https://www.sixteenink.com"
 
 theme: jekyll-theme-midnight
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Skyler Lewis
+  url:          https://sixteenink.com
+  #  email:        
 
 # Build settings
 markdown:       kramdown
