@@ -1,14 +1,15 @@
 ---
-id: 169
 title: Home Again
-date: 2010-05-09T00:37:34+00:00
+date: 2010-05-09 00:37:34 Z
+permalink: "/home-again/"
+categories:
+- Cynthia
+id: 169
 author: Cynthia
 layout: post
 guid: http://slewis.bluehoststaff.com/bhtest/?p=169
-permalink: /home-again/
-categories:
-  - Cynthia
 ---
+
 We are back from Cali!
   
 And we are exhausted!

@@ -1,14 +1,15 @@
 ---
-id: 284
 title: Four Is Always Better Than One
-date: 2011-08-24T19:24:43+00:00
+date: 2011-08-24 19:24:43 Z
+permalink: "/four-is-always-better-than-one/"
+categories:
+- Cynthia
+id: 284
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=284
-permalink: /four-is-always-better-than-one/
-categories:
-  - Cynthia
 ---
+
 <img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://i0.wp.com/lewynandez.com/wp-content/uploads/2011/08/wpid-IMG_6317.jpg?w=793" data-recalc-dims="1" />
 
 <img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://i1.wp.com/lewynandez.com/wp-content/uploads/2011/08/wpid-IMG_2616.jpg?w=793" data-recalc-dims="1" />

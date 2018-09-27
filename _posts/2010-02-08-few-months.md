@@ -1,14 +1,15 @@
 ---
-id: 162
 title: Few months
-date: 2010-02-08T06:38:20+00:00
+date: 2010-02-08 06:38:20 Z
+permalink: "/few-months/"
+categories:
+- Skyler
+id: 162
 author: Skyler
 layout: post
 guid: http://lewynandez.com/?p=162
-permalink: /few-months/
-categories:
-  - Skyler
 ---
+
 School is rough. I have to write a paper a day pretty much for my ethics and values class and cynthia is taking pretty much the hardest class in college -biology. We also are taking a music class and an english class together. Music has been pretty easy, but english has kicked our butts. No more online classes. We have learned our lesson. 
 
 Paris is getting to be so big! She was just barely squirming around on the floor and all we had to do to take care of her is sit her on the floor and to make sure that she didn&#8217;t go anywhere we didnt want her to go we just put up a wall of a couple of pillows! And now, we cant seem to find a way to keep her in any one location! She is sitting up, almost standing, crawling everywhere and getting into all sorts of mischief. She is even figuring out how to crawl up stairs! She can go all the way up all by herself. Its so insane! 

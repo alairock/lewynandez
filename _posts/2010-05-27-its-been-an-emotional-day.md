@@ -1,14 +1,15 @@
 ---
+title: It&#8217;s Been An Emotional Day
+date: 2010-05-27 03:05:37 Z
+permalink: "/its-been-an-emotional-day/"
+categories:
+- Cynthia
 id: 176
-title: 'It&#8217;s Been An Emotional Day'
-date: 2010-05-27T03:05:37+00:00
 author: Cynthia
 layout: post
 guid: http://slewis.bluehoststaff.com/bhtest/?p=176
-permalink: /its-been-an-emotional-day/
-categories:
-  - Cynthia
 ---
+
 Today is our daughter Paris Amora Lewis&#8217; first birthday!
   
 We cant believe it!

@@ -1,14 +1,15 @@
 ---
-id: 654
 title: Busy Little Lewis Family
-date: 2012-08-20T21:47:10+00:00
+date: 2012-08-20 21:47:10 Z
+permalink: "/busy-little-lewis-family/"
+categories:
+- Skyler
+id: 654
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=654
-permalink: /busy-little-lewis-family/
-categories:
-  - Skyler
 ---
+
 <center>
   <br /> I totally failed my blogging promise.. :\<br /> <strong>BUT!</strong><br /> We have been super busy!<br /> On what is a surprise&#8230; ;]<br /> Exciting things are happening for The Little Lewis Family!! </p> 
   

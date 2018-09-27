@@ -1,14 +1,15 @@
 ---
-id: 248
 title: Princess Paris Turned 2!
-date: 2011-07-02T20:49:57+00:00
+date: 2011-07-02 20:49:57 Z
+permalink: "/princess-paris-turned-2/"
+categories:
+- Cynthia
+id: 248
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=248
-permalink: /princess-paris-turned-2/
-categories:
-  - Cynthia
 ---
+
 Our baby girl turned 2 on May 26!!
 
 We couldn&#8217;t believe it!

@@ -1,14 +1,15 @@
 ---
-id: 43
 title: Eventful Weekend Sept. 20th
-date: 2008-09-23T18:25:18+00:00
+date: 2008-09-23 18:25:18 Z
+permalink: "/eventful-weekend-sept-20th/"
+categories:
+- Cynthia
+id: 43
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=43
-permalink: /eventful-weekend-sept-20th/
-categories:
-  - Cynthia
 ---
+
 So we had a very exciting weekend
 
 We went to Tucanos Saturday night with Mark and Beth,

@@ -1,14 +1,15 @@
 ---
-id: 4
 title: We Got A COMPUTER!!!
-date: 2007-12-05T21:12:11+00:00
+date: 2007-12-05 21:12:11 Z
+permalink: "/we-got-a-computer/"
+categories:
+- Cynthia
+id: 4
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=4
-permalink: /we-got-a-computer/
-categories:
-  - Cynthia
 ---
+
 So its been quite a while since we&#8217;ve posted!
 
 We are finally officially engaged!

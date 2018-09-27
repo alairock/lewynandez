@@ -1,14 +1,15 @@
 ---
+title: Everything&#8217;s Illuminated
+date: 2010-10-14 05:15:59 Z
+permalink: "/everythings-illuminated-2/"
+categories:
+- Cynthia
 id: 226
-title: 'Everything&#8217;s Illuminated'
-date: 2010-10-14T05:15:59+00:00
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=226
-permalink: /everythings-illuminated-2/
-categories:
-  - Cynthia
 ---
+
 In case you haven&#8217;t heard..
 
 **Baby #2 is on their way!**

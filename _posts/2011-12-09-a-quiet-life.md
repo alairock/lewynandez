@@ -1,14 +1,15 @@
 ---
-id: 536
 title: A Quiet Life
-date: 2011-12-09T07:41:20+00:00
+date: 2011-12-09 07:41:20 Z
+permalink: "/a-quiet-life/"
+categories:
+- Skyler
+id: 536
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/a-quiet-life/
-permalink: /a-quiet-life/
-categories:
-  - Skyler
 ---
+
 We have been trying to keep life nice and quiet lately. And mostly stress free. We believe stress might be a factor in my little seizure episodes.
 
 We are almost done Christmas shopping! We have been doing it a little at a time because the big crowds really put a stress on me. But we love this time of year together. Especially now that we have kids. We took the girls to see Santa the other night and we were able to get a semi decent picture without any crying. (that didn&#8217;t last long though) then we went to the Riverwoods and got Ike&#8217;s ice cream. And of course we had to take Miss Paris on the carousel. We had a great time just being together.

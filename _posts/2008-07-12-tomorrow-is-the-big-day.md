@@ -1,14 +1,15 @@
 ---
-id: 25
 title: Tomorrow is the big day
-date: 2008-07-12T04:28:39+00:00
+date: 2008-07-12 04:28:39 Z
+permalink: "/tomorrow-is-the-big-day/"
+categories:
+- Cynthia
+id: 25
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=25
-permalink: /tomorrow-is-the-big-day/
-categories:
-  - Cynthia
 ---
+
 wow.
 
 its really here!

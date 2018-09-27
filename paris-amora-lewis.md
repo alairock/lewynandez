@@ -1,11 +1,12 @@
 ---
-id: 75
 title: Paris
-date: 2009-04-15T02:57:44+00:00
+date: 2009-04-15 02:57:44 Z
+id: 75
 author: Cynthia
 layout: page
 guid: http://lewynandez.com/?page_id=75
 ---
+
 Right now, Paris is 6 years old. She love school, and plays Minecraft, and has a best friend!
 
 &nbsp;

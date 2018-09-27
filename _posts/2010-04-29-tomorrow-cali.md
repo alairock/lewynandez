@@ -1,14 +1,15 @@
 ---
-id: 168
 title: Tomorrow Cali!
-date: 2010-04-29T03:16:11+00:00
+date: 2010-04-29 03:16:11 Z
+permalink: "/tomorrow-cali/"
+categories:
+- Cynthia
+id: 168
 author: Cynthia
 layout: post
 guid: http://slewis.bluehoststaff.com/bhtest/?p=168
-permalink: /tomorrow-cali/
-categories:
-  - Cynthia
 ---
+
 We are going to California tomorrow at 2:30!
   
 BUT!

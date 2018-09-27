@@ -1,14 +1,15 @@
 ---
+title: July 12 &#8211; September 12 2008 = 2 Happy Months <3
+date: 2008-09-12 06:52:53 Z
+permalink: "/july-12-september-12-2008-2-happy-months/"
+categories:
+- Cynthia
 id: 42
-title: 'July 12 &#8211; September 12 2008 = 2 Happy Months <3'
-date: 2008-09-12T06:52:53+00:00
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=42
-permalink: /july-12-september-12-2008-2-happy-months/
-categories:
-  - Cynthia
 ---
+
 Well we have been married for 2 months now and we absolutely love it!
 
 Its an amazing feeling waking up next to your spouse and having someone there in the morning. Putting your cold feet on their warm legs in the morning. 🙂

@@ -1,14 +1,15 @@
 ---
-id: 49
 title: Baby/Life Update
-date: 2008-12-04T22:35:30+00:00
+date: 2008-12-04 22:35:30 Z
+permalink: "/babylife-update/"
+categories:
+- Cynthia
+id: 49
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=49
-permalink: /babylife-update/
-categories:
-  - Cynthia
 ---
+
 We went to a doctors appointment on Wednesday, everything is going good. 🙂
 
 While at the doctors they tried to get the baby&#8217;s heartbeat but she kept hiding. 🙂 when they did find her she kept kickin the microphone&#8230; 🙂 i guess she doesnt want anyone to invade in on her sleep. 🙂

@@ -1,14 +1,15 @@
 ---
-id: 285
 title: 30 Day Challenge
-date: 2011-09-02T06:08:42+00:00
+date: 2011-09-02 06:08:42 Z
+permalink: "/30-day-challenge/"
+categories:
+- Cynthia
+id: 285
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=285
-permalink: /30-day-challenge/
-categories:
-  - Cynthia
 ---
+
 Day 01- A recent picture of you and 15 interesting facts about yourself.
 
 Day 02- A picture of something you cannot live without.

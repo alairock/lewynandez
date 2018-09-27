@@ -1,14 +1,15 @@
 ---
-id: 24
 title: Only 2 Days Left
-date: 2008-07-10T17:54:19+00:00
+date: 2008-07-10 17:54:19 Z
+permalink: "/only-2-days-left/"
+categories:
+- Cynthia
+id: 24
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=24
-permalink: /only-2-days-left/
-categories:
-  - Cynthia
 ---
+
 and we are trying to hold on to our sanity.
 
 we have our apartment pretty much set up.

@@ -1,14 +1,15 @@
 ---
-id: 161
 title: Week of horror.
-date: 2009-11-03T18:41:30+00:00
+date: 2009-11-03 18:41:30 Z
+permalink: "/week-of-horror/"
+categories:
+- Skyler
+id: 161
 author: Skyler
 layout: post
 guid: http://lewynandez.com/?p=161
-permalink: /week-of-horror/
-categories:
-  - Skyler
 ---
+
 This is a crazy week we have a couple of really large jobs that we are doing and are worth a lot of money at work. These jobs could lead to more jobs this large which would put me that much closer to more money. So that is good. 
 
 I am worries because it is my birthday and I don&#8217;t want to spend money on me. It&#8217;s nicethough to have a wife who doesn&#8217;t care and just wants to make it nice for me. I love it.

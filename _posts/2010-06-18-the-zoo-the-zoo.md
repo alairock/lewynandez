@@ -1,14 +1,15 @@
 ---
-id: 192
 title: The Zoo The ZOO!
-date: 2010-06-18T21:17:48+00:00
+date: 2010-06-18 21:17:48 Z
+permalink: "/the-zoo-the-zoo/"
+categories:
+- Cynthia
+id: 192
 author: Cynthia
 layout: post
 guid: http://slewis.bluehoststaff.com/bhtest/?p=192
-permalink: /the-zoo-the-zoo/
-categories:
-  - Cynthia
 ---
+
 We live in a zoo
   
 BUT

@@ -1,14 +1,15 @@
 ---
-id: 3
 title: Old Posts from Before the Crash.
-date: 2007-09-21T15:40:13+00:00
+date: 2007-09-21 15:40:13 Z
+permalink: "/old-posts-from-before-the-crash/"
+categories:
+- Skyler
+id: 3
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=3
-permalink: /old-posts-from-before-the-crash/
-categories:
-  - Skyler
 ---
+
 The server crashed. Thank you google for archiving my website. Here&#8217;s what has been posted in the past with one long post.
 
 1)

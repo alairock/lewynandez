@@ -1,14 +1,15 @@
 ---
-id: 485
 title: DAY 13-HARD TO SAY
-date: 2011-10-11T08:12:16+00:00
+date: 2011-10-11 08:12:16 Z
+permalink: "/day-13-hard-to-say/"
+categories:
+- Skyler
+id: 485
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=485
-permalink: /day-13-hard-to-say/
-categories:
-  - Skyler
 ---
+
 **Day 13- Write a letter telling someone something you could never tell them.**
 
 <a href="http://i1.wp.com/lewynandez.com/wp-content/uploads/2011/10/alone_by_esparrow.jpg" rel="lightbox[485]"><img class="aligncenter size-medium wp-image-486" title="ALONE" src="http://i1.wp.com/lewynandez.com/wp-content/uploads/2011/10/alone_by_esparrow-227x300.jpg?fit=227%2C300" alt="" srcset="http://i1.wp.com/lewynandez.com/wp-content/uploads/2011/10/alone_by_esparrow.jpg?resize=227%2C300 227w, http://i1.wp.com/lewynandez.com/wp-content/uploads/2011/10/alone_by_esparrow.jpg?w=300 300w" sizes="(max-width: 227px) 100vw, 227px" data-recalc-dims="1" /></a>Dear Girl in Elementary School,

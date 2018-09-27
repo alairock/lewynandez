@@ -1,14 +1,15 @@
 ---
-id: 765
 title: 3 Months. Today.
-date: 2013-02-28T19:42:46+00:00
+date: 2013-02-28 19:42:46 Z
+permalink: "/3-months-today/"
+categories:
+- Skyler
+id: 765
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=765
-permalink: /3-months-today/
-categories:
-  - Skyler
 ---
+
 <center>
   </p> 
   

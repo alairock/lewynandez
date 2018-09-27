@@ -1,14 +1,15 @@
 ---
-id: 8
 title: Still waiting.
-date: 2008-04-09T01:51:15+00:00
+date: 2008-04-09 01:51:15 Z
+permalink: "/still-waiting/"
+categories:
+- Skyler
+id: 8
 author: Skyler
 layout: post
 guid: http://lewynandez.com/?p=8
-permalink: /still-waiting/
-categories:
-  - Skyler
 ---
+
 Its april 8th. We have been together for an official/unofficial 13 months, and things are still going great. We have 1 months till graduation, 2 for Jacen, and 3 for wedding.
 
 This week has been extremely busy. We just booked our photographer/videographer with Lucid Media, and we booked our cake with Carries Cakes.

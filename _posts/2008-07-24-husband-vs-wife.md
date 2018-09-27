@@ -1,14 +1,15 @@
 ---
-id: 26
 title: Husband Vs Wife
-date: 2008-07-24T18:17:40+00:00
+date: 2008-07-24 18:17:40 Z
+permalink: "/husband-vs-wife/"
+categories:
+- Skyler
+id: 26
 author: Skyler
 layout: post
 guid: http://lewynandez.com/?p=26
-permalink: /husband-vs-wife/
-categories:
-  - Skyler
 ---
+
 So we are now married. Its strange a little. Everything feels the same yet everything is really different. We had an amazing time in california, doing things like going to Coronado Island across the big scary bridge, going to the San Diego Zoo, Going to SeaWorld, Going to LegoLand, Going to an underground Albertsons, going somewhat to the Wild Animal Park, and learning that people in California drive like maniacs.
 
 The wedding was perfect. It was the most beautiful wedding I have ever seen with my own eyes. Thank you to everyone that made it so amazing. Especially thanks to Barlow and his wife at Lucid Media who video and photographed the entire thing. They made it really fun and really interesting for both of us. I personally recommend them for any one elses video/photo needs.

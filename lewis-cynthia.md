@@ -1,11 +1,12 @@
 ---
-id: 22
 title: Cynthia
-date: 2008-07-07T04:43:33+00:00
+date: 2008-07-07 04:43:33 Z
+id: 22
 author: Cynthia
 layout: page
 guid: http://lewynandez.com/?page_id=22
 ---
+
 Hello Hello Hello!
 
 My name is Cynthia Renae Lewis and I am a newlywed wifey. =]

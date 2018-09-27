@@ -1,14 +1,15 @@
 ---
-id: 793
 title: The Little Things I Loved About Our Wedding
-date: 2013-07-11T21:33:22+00:00
+date: 2013-07-11 21:33:22 Z
+permalink: "/the-little-things-i-loved-about-our-wedding/"
+categories:
+- Skyler
+id: 793
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=793
-permalink: /the-little-things-i-loved-about-our-wedding/
-categories:
-  - Skyler
 ---
+
 I loved our wedding day in all of it&#8217;s entirety..
   
 But the past few days I&#8217;ve been thinking of the little reasons that made it so special.. 

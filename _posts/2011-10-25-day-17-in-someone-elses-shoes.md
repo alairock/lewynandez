@@ -1,14 +1,15 @@
 ---
+title: Day 17-In Someone Else&#8217;s Shoes
+date: 2011-10-25 18:02:05 Z
+permalink: "/day-17-in-someone-elses-shoes/"
+categories:
+- Skyler
 id: 495
-title: 'Day 17-In Someone Else&#8217;s Shoes'
-date: 2011-10-25T18:02:05+00:00
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=495
-permalink: /day-17-in-someone-elses-shoes/
-categories:
-  - Skyler
 ---
+
 **Day 17- Someone you would want to switch lives with for one day and why.**
 
 <a href="http://i2.wp.com/lewynandez.com/wp-content/uploads/2011/10/leadphone.jpg" rel="lightbox[495]"><img class="alignleft size-medium wp-image-496" title="leadphone" src="http://i1.wp.com/lewynandez.com/wp-content/uploads/2011/10/leadphone-300x226.jpg?fit=300%2C226" alt="" srcset="http://i2.wp.com/lewynandez.com/wp-content/uploads/2011/10/leadphone.jpg?resize=300%2C226 300w, http://i2.wp.com/lewynandez.com/wp-content/uploads/2011/10/leadphone.jpg?w=350 350w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>

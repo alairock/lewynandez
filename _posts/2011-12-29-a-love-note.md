@@ -1,14 +1,15 @@
 ---
-id: 553
 title: A Love Note
-date: 2011-12-29T06:32:20+00:00
+date: 2011-12-29 06:32:20 Z
+permalink: "/a-love-note/"
+categories:
+- Skyler
+id: 553
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=553
-permalink: /a-love-note/
-categories:
-  - Skyler
 ---
+
 <a href="http://i0.wp.com/lewynandez.com/wp-content/uploads/2011/12/20111228-233210.jpg" rel="lightbox[553]"><img src="http://i0.wp.com/lewynandez.com/wp-content/uploads/2011/12/20111228-233210.jpg?w=793" alt="20111228-233210.jpg" class="alignnone size-full" data-recalc-dims="1" /></a>
   
 I never imagined walking into a local show late February 2007 that my life would change forever. With my brother and his best friend by my side we walked into the the double doors and almost immediately an adorable boy in light jeans and Pumas approached us. He looked at my brother (an important part in our story.my brother is my best friend and of course he would need to approve!)and said &#8220;hey you&#8217;re marks kid!&#8221; I was immediately love struck and I wanted his attention..badly! I whined &#8220;I&#8217;m Mark&#8217;s kid too!&#8221; he said hello and we went our separate ways. But for some reason every time I turned around that night there he was! (Later revealed he kept an eye on me all night. I found that to be the cutest thing ever!) As the night came to an end we saw him one last time..he gave us one last high five and we were off. But I could not get my mind off of him. 

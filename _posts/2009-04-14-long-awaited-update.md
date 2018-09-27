@@ -1,14 +1,15 @@
 ---
-id: 69
 title: Long Awaited Update
-date: 2009-04-14T05:01:48+00:00
+date: 2009-04-14 05:01:48 Z
+permalink: "/long-awaited-update/"
+categories:
+- Cynthia
+id: 69
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=69
-permalink: /long-awaited-update/
-categories:
-  - Cynthia
 ---
+
 So we&#8217;ve been pretty busy. =]
   
 We&#8217;ve moved out of our apartment and moved in with my family to save for a down on a house.

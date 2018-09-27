@@ -1,14 +1,15 @@
 ---
-id: 11
 title: Thrice and 2 months.
-date: 2008-05-23T03:54:11+00:00
+date: 2008-05-23 03:54:11 Z
+permalink: "/thrice-and-2-months/"
+categories:
+- Skyler
+id: 11
 author: Skyler
 layout: post
 guid: http://lewynandez.com/?p=11
-permalink: /thrice-and-2-months/
-categories:
-  - Skyler
 ---
+
 So we have less than two months ago and the time is just flying its crazy!
 
 The hardest part about getting married I think is dedicating yourself to saving money and losing weight. I dont care how much you say you disagree, but its true for everyone I think. I know I dont want to walk out on the beach with a gut, unless its six sqaure guts all perfectly aligned.

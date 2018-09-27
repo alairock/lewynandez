@@ -1,14 +1,15 @@
 ---
-id: 95
 title: May 26, 2009 The Day Princess Came
-date: 2009-07-31T05:09:01+00:00
+date: 2009-07-31 05:09:01 Z
+permalink: "/may-26-2009-the-day-princess-came/"
+categories:
+- Cynthia
+id: 95
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=95
-permalink: /may-26-2009-the-day-princess-came/
-categories:
-  - Cynthia
 ---
+
 Sorry we haven&#8217;t updated in so long! Our site was down!
 
 Anyways

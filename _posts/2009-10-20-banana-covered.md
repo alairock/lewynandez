@@ -1,15 +1,16 @@
 ---
-id: 140
 title: Banana Covered
-date: 2009-10-20T18:51:48+00:00
+date: 2009-10-20 18:51:48 Z
+permalink: "/banana-covered/"
+categories:
+- Cynthia
+- Uncategorized
+id: 140
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=140
-permalink: /banana-covered/
-categories:
-  - Cynthia
-  - Uncategorized
 ---
+
 Hubby is at work
   
 and Me && Princess are just playing at home

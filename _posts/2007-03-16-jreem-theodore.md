@@ -1,14 +1,15 @@
 ---
-id: 803
 title: Jreem Theodore
-date: 2007-03-16T17:26:48+00:00
+date: 2007-03-16 17:26:48 Z
+permalink: "/jreem-theodore/"
+categories:
+- Skyler
+id: 803
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=803
-permalink: /jreem-theodore/
-categories:
-  - Skyler
 ---
+
 Lots of stuff is happening. I dont really want to get into the thick of it.
 
 Pretty much my band is going awesome. Jave isnt in it anymore, but thats okay, we are moving in a different direction anyhow.

@@ -1,14 +1,15 @@
 ---
-id: 178
 title: Becoming A House Wife
-date: 2010-06-10T19:47:25+00:00
+date: 2010-06-10 19:47:25 Z
+permalink: "/becoming-a-house-wife/"
+categories:
+- Cynthia
+id: 178
 author: Cynthia
 layout: post
 guid: http://slewis.bluehoststaff.com/bhtest/?p=178
-permalink: /becoming-a-house-wife/
-categories:
-  - Cynthia
 ---
+
 Lately I have been trying my best to be a better house wife.
 
 Cleaning

@@ -1,20 +1,21 @@
 ---
-id: 468
 title: Analytics
-date: 2011-09-27T20:00:49+00:00
+date: 2011-09-27 20:00:49 Z
+permalink: "/analytics/"
+categories:
+- Skyler
+tags:
+- affiliate marketing
+- analytics
+- Design
+- SEO
+id: 468
 author: Skyler
 layout: post
 guid: http://lewynandez.com/?p=468
-permalink: /analytics/
-image: /wp-content/uploads/2011/09/Screenshot1-e1317152729194.png
-categories:
-  - Skyler
-tags:
-  - affiliate marketing
-  - analytics
-  - Design
-  - SEO
+image: "/wp-content/uploads/2011/09/Screenshot1-e1317152729194.png"
 ---
+
 <a href="http://i1.wp.com/lewynandez.com/wp-content/uploads/2011/09/Screenshot1.png" rel="lightbox[468]"><img src="http://i2.wp.com/lewynandez.com/wp-content/uploads/2011/09/Screenshot1-e1317152729194-300x66.png?fit=300%2C66" alt="" title="Screenshot" class="alignnone size-medium wp-image-478" srcset="http://i1.wp.com/lewynandez.com/wp-content/uploads/2011/09/Screenshot1-e1317152729194.png?resize=300%2C66 300w, http://i1.wp.com/lewynandez.com/wp-content/uploads/2011/09/Screenshot1-e1317152729194.png?w=956 956w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
 
 Frustration. I have been poking and prodding at the world of affiliate marketing / advertisement. It&#8217;s been since the first of April this year that I made any such attempt and my findings are pretty conclusive. 

@@ -1,15 +1,16 @@
 ---
-id: 155
 title: Ramen On Drugs
-date: 2009-10-21T16:26:56+00:00
+date: 2009-10-21 16:26:56 Z
+permalink: "/ramen-on-drugs/"
+categories:
+- Cynthia
+- Uncategorized
+id: 155
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=155
-permalink: /ramen-on-drugs/
-categories:
-  - Cynthia
-  - Uncategorized
 ---
+
 Last night I made quite the tasty ramen.
   
 Chicken

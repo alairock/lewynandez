@@ -1,14 +1,15 @@
 ---
-id: 12
 title: The Time Is Almost Up
-date: 2008-06-14T23:59:21+00:00
+date: 2008-06-14 23:59:21 Z
+permalink: "/the-time-is-almost-up/"
+categories:
+- Cynthia
+id: 12
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=12
-permalink: /the-time-is-almost-up/
-categories:
-  - Cynthia
 ---
+
 So we have completed graduation. it was so nerve-racking but it was amazing having all my friends and family there even my uncle carl showed up. he had to cancel an appointment just so he could be there. =]
 
 we have 3 days till Jacen. which is kind of exciting, I&#8217;ve never met him before so its like&#8230;&#8230;.I dunno what its like. But Skyler is really excited to have his brother home.

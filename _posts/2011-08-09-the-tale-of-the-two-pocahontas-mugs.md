@@ -1,14 +1,15 @@
 ---
-id: 278
 title: The Tale of the Two Pocahontas Mugs
-date: 2011-08-09T19:56:44+00:00
+date: 2011-08-09 19:56:44 Z
+permalink: "/the-tale-of-the-two-pocahontas-mugs/"
+categories:
+- Cynthia
+id: 278
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=278
-permalink: /the-tale-of-the-two-pocahontas-mugs/
-categories:
-  - Cynthia
 ---
+
 <img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://i1.wp.com/lewynandez.com/wp-content/uploads/2011/08/wpid-2011-08-09-13.27.33.jpg?w=793" data-recalc-dims="1" />
 
 <img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://i2.wp.com/lewynandez.com/wp-content/uploads/2011/08/wpid-2011-08-09-13.27.56.jpg?w=793" data-recalc-dims="1" />

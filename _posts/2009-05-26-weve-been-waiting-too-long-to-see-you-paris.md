@@ -1,14 +1,15 @@
 ---
+title: We&#8217;ve been waiting too long to see you Paris
+date: 2009-05-26 01:04:45 Z
+permalink: "/weve-been-waiting-too-long-to-see-you-paris/"
+categories:
+- Cynthia
 id: 83
-title: 'We&#8217;ve been waiting too long to see you Paris'
-date: 2009-05-26T01:04:45+00:00
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=83
-permalink: /weve-been-waiting-too-long-to-see-you-paris/
-categories:
-  - Cynthia
 ---
+
 Tomorrow is the big day
   
 And me and dad are both so excited and nervous at the same time!! =]

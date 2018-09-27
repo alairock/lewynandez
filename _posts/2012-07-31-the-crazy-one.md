@@ -1,14 +1,15 @@
 ---
-id: 652
 title: The Crazy One
-date: 2012-07-31T22:47:28+00:00
+date: 2012-07-31 22:47:28 Z
+permalink: "/the-crazy-one/"
+categories:
+- Skyler
+id: 652
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=652
-permalink: /the-crazy-one/
-categories:
-  - Skyler
 ---
+
 <a href="http://i1.wp.com/lewynandez.com/wp-content/uploads/2012/07/20120731-160441.jpg" rel="lightbox[652]"><img src="http://i1.wp.com/lewynandez.com/wp-content/uploads/2012/07/20120731-160441.jpg?w=793" alt="20120731-160441.jpg" class="alignnone size-full" data-recalc-dims="1" /></a>
 
 This little angel face is a mischievous one..

@@ -1,18 +1,19 @@
 ---
+title: The &#8220;Cure&#8221; to Panic Attacks
+date: 2013-10-07 18:13:20 Z
+permalink: "/the-cure-to-panic-attacks/"
+categories:
+- Skyler
+tags:
+- anxiety
+- cure for panic
+- pannic attacks
 id: 805
-title: 'The &#8220;Cure&#8221; to Panic Attacks'
-date: 2013-10-07T18:13:20+00:00
 author: Skyler
 layout: post
 guid: http://lewynandez.com/?p=805
-permalink: /the-cure-to-panic-attacks/
-categories:
-  - Skyler
-tags:
-  - anxiety
-  - cure for panic
-  - pannic attacks
 ---
+
 To my knowledge there is no &#8220;cure&#8221; for panic attacks and anxiety. But you can definitely manage them. So much so they don&#8217;t really need to be part of your life. It takes time and it takes practice, but I saw an immediate difference when I started following my own rules.
 
 The problem is, anxiety is brought on by hypersensitivity either to your surroundings, your feelings or your thoughts. But ultimately you can break the cycle at any one of those three points. You can change your environment. This is the easiest of things to change, but then you may feel all sorts of other feelings associated with that. Including loneliness and increased depression. You can change your feelings, but that is very difficult to do since it&#8217;s the most tied to surroundings and thoughts. And lastly you can change your thoughts.

@@ -1,14 +1,15 @@
 ---
+title: It&#8217;s Hard to Say..
+date: 2013-01-29 02:07:34 Z
+permalink: "/its-hard-to-say/"
+categories:
+- Skyler
 id: 757
-title: 'It&#8217;s Hard to Say..'
-date: 2013-01-29T02:07:34+00:00
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=757
-permalink: /its-hard-to-say/
-categories:
-  - Skyler
 ---
+
 <center>
   </p> 
   

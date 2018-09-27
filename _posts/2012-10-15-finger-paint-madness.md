@@ -1,14 +1,15 @@
 ---
-id: 752
 title: Finger Paint Madness
-date: 2012-10-15T00:38:36+00:00
+date: 2012-10-15 00:38:36 Z
+permalink: "/finger-paint-madness/"
+categories:
+- Skyler
+id: 752
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=752
-permalink: /finger-paint-madness/
-categories:
-  - Skyler
 ---
+
 <a href="http://i0.wp.com/lewynandez.com/wp-content/uploads/2012/10/20121014-175317.jpg" rel="lightbox[752]"><img src="http://i0.wp.com/lewynandez.com/wp-content/uploads/2012/10/20121014-175317.jpg?w=793" alt="20121014-175317.jpg" class="alignnone size-full" data-recalc-dims="1" /></a><a href="http://i0.wp.com/lewynandez.com/wp-content/uploads/2012/10/20121014-175330.jpg" rel="lightbox[752]"><img src="http://i0.wp.com/lewynandez.com/wp-content/uploads/2012/10/20121014-175330.jpg?w=793" alt="20121014-175330.jpg" class="alignnone size-full" data-recalc-dims="1" /></a><a href="http://i2.wp.com/lewynandez.com/wp-content/uploads/2012/10/20121014-175351.jpg" rel="lightbox[752]"><img src="http://i2.wp.com/lewynandez.com/wp-content/uploads/2012/10/20121014-175351.jpg?w=793" alt="20121014-175351.jpg" class="alignnone size-full" data-recalc-dims="1" /></a>
 
 A week ago the babies and I had a project to do. Finger paint pictures. The girls loved it and we had to wash off a lot of paint after but it was so much fun! Lauren knew right away what to do. Smearing it all over the place. Sticking her feet in the different colors. Paris was serious about it. Having her colors in a neat row. Using one tiny finger to carefully detail a picture. But along came Lauren and destroyed the whole thing. Usually Paris erupts in crying and yelling at Lauren, however, this time she laughed and joined right in. Now the pieces of art are sitting on the kitchen table for all to enjoy, 

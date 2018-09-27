@@ -1,14 +1,15 @@
 ---
+title: It&#8217;s Friday! [love note to skyler]
+date: 2012-09-21 21:18:17 Z
+permalink: "/its-friday-love-note-to-skyler-2/"
+categories:
+- Skyler
 id: 708
-title: 'It&#8217;s Friday! [love note to skyler]'
-date: 2012-09-21T21:18:17+00:00
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=708
-permalink: /its-friday-love-note-to-skyler-2/
-categories:
-  - Skyler
 ---
+
 It&#8217;s finally Friday!! It seems like this week has been going by so _**slow**_ !!
 
 Skyler is busy working on a big project.

@@ -1,14 +1,15 @@
 ---
+title: Skyler&#8217;s Girlfriend
+date: 2007-04-07 13:25:06 Z
+permalink: "/skylers-girlfriend/"
+categories:
+- Skyler
 id: 802
-title: 'Skyler&#8217;s Girlfriend'
-date: 2007-04-07T13:25:06+00:00
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=802
-permalink: /skylers-girlfriend/
-categories:
-  - Skyler
 ---
+
 Hi….
 
 The names Cindy…Im Skyler’s girlfriend =]

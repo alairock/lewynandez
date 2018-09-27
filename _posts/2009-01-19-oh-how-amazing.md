@@ -1,14 +1,15 @@
 ---
-id: 58
 title: Oh How Amazing..
-date: 2009-01-19T23:15:08+00:00
+date: 2009-01-19 23:15:08 Z
+permalink: "/oh-how-amazing/"
+categories:
+- Cynthia
+id: 58
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=58
-permalink: /oh-how-amazing/
-categories:
-  - Cynthia
 ---
+
 20 (almost 21 weeks) weeks so far and we are half way there.
   
 Baby kicks alot and reminds us that she is there 🙂

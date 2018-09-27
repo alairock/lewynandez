@@ -1,15 +1,16 @@
 ---
-id: 472
 title: Day 9-SO PROUD
-date: 2011-09-24T07:58:14+00:00
+date: 2011-09-24 07:58:14 Z
+permalink: "/day-9-so-proud/"
+categories:
+- Cynthia
+- Skyler
+id: 472
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=472
-permalink: /day-9-so-proud/
-categories:
-  - Cynthia
-  - Skyler
 ---
+
 **Day 09- Something/someone you’re proud of. (Im so bad at keeping up with this!)**
 
 <a href="http://i0.wp.com/lewynandez.com/wp-content/uploads/2011/09/Love.jpg" rel="lightbox[472]"><img class="aligncenter size-large wp-image-474" title="Love" src="http://i0.wp.com/lewynandez.com/wp-content/uploads/2011/09/Love-1024x376.jpg?fit=645%2C236" alt="" srcset="http://i0.wp.com/lewynandez.com/wp-content/uploads/2011/09/Love.jpg?resize=1024%2C376 1024w, http://i0.wp.com/lewynandez.com/wp-content/uploads/2011/09/Love.jpg?resize=300%2C110 300w, http://i0.wp.com/lewynandez.com/wp-content/uploads/2011/09/Love.jpg?w=1586 1586w" sizes="(max-width: 645px) 100vw, 645px" data-recalc-dims="1" /></a>**PARIS&LAUREN-** I cannot believe I carried you two perfect little beings in my body for 9 amazing months! Feeling your little feet and hands hit me from the inside made me so proud that I could carry you and have you in my arms 9months later! Every little thing you two Princesses do makes me more and more proud each second I am around you! Mommy loves you, from the moment I felt your sweet spirits and forever after that!

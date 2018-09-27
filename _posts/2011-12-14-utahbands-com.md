@@ -1,19 +1,20 @@
 ---
-id: 540
 title: Utahbands.com
-date: 2011-12-14T15:15:34+00:00
+date: 2011-12-14 15:15:34 Z
+permalink: "/utahbands-com/"
+categories:
+- Skyler
+tags:
+- javascript
+- jquery
+- PHP
+- utahbands.com
+id: 540
 author: Skyler
 layout: post
 guid: http://lewynandez.com/?p=540
-permalink: /utahbands-com/
-categories:
-  - Skyler
-tags:
-  - javascript
-  - jquery
-  - PHP
-  - utahbands.com
 ---
+
 I had been working really hard, trying to find a way to drive traffic to dryearth.com, until about the time of my last post. After which I decided that I wanted to work with Utahbands.com and reform it in a big way, converting it to a full scale social network. The details of the network are being guarded closely, but it&#8217;s going to be epic.
 
 With building that site, I have learned that I have a lot of limitations as far as my knowledge in programming. Since the remodel, I have relearned html, including new standards with HTML5 and CSS3 (More than I knew before, anyways) I have come a long way in Jquery as well. I can write JQuery really efficiantly now. I can&#8217;t say I know it all, but I can do anything I think I could ever want to do with it.

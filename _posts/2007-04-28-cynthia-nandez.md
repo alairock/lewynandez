@@ -1,14 +1,15 @@
 ---
-id: 800
 title: Cynthia Nandez
-date: 2007-04-28T17:20:45+00:00
+date: 2007-04-28 17:20:45 Z
+permalink: "/cynthia-nandez/"
+categories:
+- Skyler
+id: 800
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=800
-permalink: /cynthia-nandez/
-categories:
-  - Skyler
 ---
+
 I have so much going on…. I dont know if I really want to talk about it all. Its kind of exciting all the things that has been going on. Its one thirty in the morning and I am at my friend brookes house bein bored.
 
 This whole last month went by so fast! Not alot happened I think. I have spent as much time with my amazing girlfriend. We have almost been together for two months! AND NO PROBLEMS WHATSOEVER! I cannot even believe we have gone so perfect. Every single girlfriend I have ever had there has been problems almost immediately, but with her its just the opposite! Everytime I see her I think our relationship keeps on just getting stronger.

@@ -1,14 +1,15 @@
 ---
-id: 215
 title: Our Family Is Forever
-date: 2010-09-22T23:20:31+00:00
+date: 2010-09-22 23:20:31 Z
+permalink: "/our-family-is-forever/"
+categories:
+- Cynthia
+id: 215
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=215
-permalink: /our-family-is-forever/
-categories:
-  - Cynthia
 ---
+
 <img src="http://i2.wp.com/lewynandez.com/wp-content/uploads/2010/09/feet-2.jpg?resize=300%2C128" data-recalc-dims="1" />
   
 Finally Lewynandez is back up for all to read!

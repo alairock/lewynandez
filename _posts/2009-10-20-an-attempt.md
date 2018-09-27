@@ -1,14 +1,15 @@
 ---
-id: 97
 title: An Attempt
-date: 2009-10-20T16:43:39+00:00
+date: 2009-10-20 16:43:39 Z
+permalink: "/an-attempt/"
+categories:
+- Cynthia
+id: 97
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=97
-permalink: /an-attempt/
-categories:
-  - Cynthia
 ---
+
 I want to start blogging more
   
 Keeping record of what we do in our daily lives so we have this to look back on

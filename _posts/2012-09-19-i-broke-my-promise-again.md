@@ -1,14 +1,15 @@
 ---
+title: I Broke My Promise&#8230;Again!
+date: 2012-09-19 03:26:56 Z
+permalink: "/i-broke-my-promise-again/"
+categories:
+- Skyler
 id: 699
-title: 'I Broke My Promise&#8230;Again!'
-date: 2012-09-19T03:26:56+00:00
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=699
-permalink: /i-broke-my-promise-again/
-categories:
-  - Skyler
 ---
+
 <center>
   Ugh!<br /> I&#8217;m terrible at this!<br /> I&#8217;m sorry! </p> 
   

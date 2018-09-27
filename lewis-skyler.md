@@ -1,11 +1,12 @@
 ---
-id: 23
 title: Skyler
-date: 2008-07-07T04:45:15+00:00
+date: 2008-07-07 04:45:15 Z
+id: 23
 author: Cynthia
 layout: page
 guid: http://lewynandez.com/?page_id=23
 ---
+
 Skyler is 28 years old, and is still married to Cynthia! I don&#8217;t think that will ever change. I am in a band, <a href="http://reverbnation.com/adashore" target="_blank">Adashore</a> and I am one of the original software engineers of Canopy. I love spending time with my family and playing live shows.
 
 &nbsp;

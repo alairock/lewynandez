@@ -1,14 +1,15 @@
 ---
-id: 5
 title: Wedding Update!
-date: 2008-01-22T04:52:53+00:00
+date: 2008-01-22 04:52:53 Z
+permalink: "/wedding-update/"
+categories:
+- Skyler
+id: 5
 author: Skyler
 layout: post
 guid: http://lewynandez.com/?p=5
-permalink: /wedding-update/
-categories:
-  - Skyler
 ---
+
 So, we are just starting to push off the dock with this whole wedding planning thing.
 
 I think its just getting to realize what you have to do to really get going, so Mommy and Pappa Nandez started a list of things we need to get done between now and our wedding, so that we know what we need to do, so it looks like we are going to start putting check marks next to the things on the list finally! So yeah, neat!

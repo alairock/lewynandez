@@ -1,14 +1,15 @@
 ---
-id: 167
 title: Coming Soon To A Blog Near You
-date: 2010-04-22T06:19:46+00:00
+date: 2010-04-22 06:19:46 Z
+permalink: "/coming-soon-to-a-blog-near-you/"
+categories:
+- Cynthia
+id: 167
 author: Cynthia
 layout: post
 guid: http://slewis.bluehoststaff.com/bhtest/?p=167
-permalink: /coming-soon-to-a-blog-near-you/
-categories:
-  - Cynthia
 ---
+
 We are going to Cali!
   
 In a week!

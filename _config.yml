@@ -1,28 +1,25 @@
-# Site settings
-title:          Lewis
-description:    "The Little Lewis Family"
-baseurl:        "/"
-url:            "https://www.lewynandez.com"
-
+---
+title: Lewis
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: The Little Lewis Family
+baseurl: "/"
+url: https://www.lewynandez.com
 theme: jekyll-theme-midnight
-# Author
 author:
-  name:         Skyler Lewis
-  url:          https://sixteenink.com
-  #  email:        
-
-# Build settings
-markdown:       kramdown
-
-# Assets
+  name: Skyler Lewis
+  url: https://sixteenink.com
+markdown: kramdown
 sass:
-  sass_dir:     _sass
-  style:        compressed
-
-# Gems
+  sass_dir: _sass
+  style: compressed
 plugins:
-  - jekyll-paginate
-
-# Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
+- jekyll-paginate
+permalink: "/:year-:month-:day/:title"
+paginate: 5

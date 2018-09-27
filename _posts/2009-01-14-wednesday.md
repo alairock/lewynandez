@@ -1,14 +1,15 @@
 ---
-id: 57
 title: Wednesday
-date: 2009-01-14T18:47:10+00:00
+date: 2009-01-14 18:47:10 Z
+permalink: "/wednesday/"
+categories:
+- Skyler
+id: 57
 author: Skyler
 layout: post
 guid: http://lewynandez.com/?p=57
-permalink: /wednesday/
-categories:
-  - Skyler
 ---
+
 I went to Callies, here in Orem, today. I had half a killer hash browns sharing it with my pregnant wife. We were talking about old times, and having a simple life, where all the work I will have to do is a few sales in printing and spending most of my days with my wife and new baby. It almost makes me feel complete. Relaxed. And the food helped that too! 
 
 And now it is only a few more minutes before I have to go into my real job. Teaching internet business as a Coach at Thrive Learning Institute. Not that it is a bad job, in fact it really is a great job. But it takes me away from my family, and it keeps me from having what I want most. I have a lot of ambitions. I am trying to get freelance work again doing web design, or graphic design. I picked up a job doing an email layout for some man that a friend of mine set up with. I wish I could find enough of those to keep me home permanently.

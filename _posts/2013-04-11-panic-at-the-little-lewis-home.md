@@ -1,14 +1,15 @@
 ---
-id: 771
 title: Panic! At The Little Lewis home.
-date: 2013-04-11T04:12:31+00:00
+date: 2013-04-11 04:12:31 Z
+permalink: "/panic-at-the-little-lewis-home/"
+categories:
+- Skyler
+id: 771
 author: Skyler
 layout: post
 guid: http://lewynandez.com/?p=771
-permalink: /panic-at-the-little-lewis-home/
-categories:
-  - Skyler
 ---
+
 Please read at least the first paragraph.
 
 I started hearing about panic attacks when I was a little kid. I didn&#8217;t really understand it, and didn&#8217;t really think it was serious. I also didn&#8217;t know how common it was. I had my first panic attack February 11, 2013. I&#8217;ve never had any symptoms of anxiety, nor have I ever felt &#8220;stressed&#8221;. I felt great all day, and all of a sudden, I started to feel panic, like something was really wrong with my body. I started breathing heavy and my heart started racing extremely fast. I felt like I was going to pass out, and my heart was going to explode. I was going to die. I had my wife take me to the hospital, for fear I was about to die. This was my first panic attack. It is a serious condition, and people need to understand what it is, and what it can feel like. It is not discussed in any health class. Reading on I will try and go over everything that has happened to me so far, and what I have learned.

@@ -1,14 +1,15 @@
 ---
-id: 297
 title: DAY 5-OUR PLACE
-date: 2011-09-09T02:17:34+00:00
+date: 2011-09-09 02:17:34 Z
+permalink: "/day-5-our-place/"
+categories:
+- Cynthia
+id: 297
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=297
-permalink: /day-5-our-place/
-categories:
-  - Cynthia
 ---
+
 **Day 05- A picture of somewhere you’ve been to.**
 
 <a href="http://i0.wp.com/lewynandez.com/wp-content/uploads/2011/09/SD.jpg" rel="lightbox[297]"><img class="aligncenter size-medium wp-image-298" title="SD" src="http://i2.wp.com/lewynandez.com/wp-content/uploads/2011/09/SD-300x165.jpg?fit=300%2C165" alt="" srcset="http://i0.wp.com/lewynandez.com/wp-content/uploads/2011/09/SD.jpg?resize=300%2C165 300w, http://i0.wp.com/lewynandez.com/wp-content/uploads/2011/09/SD.jpg?w=640 640w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>This is our place.

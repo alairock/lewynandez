@@ -1,14 +1,15 @@
 ---
+title: Cynthia&#8217;s Boyfriend
+date: 2007-04-07 17:22:56 Z
+permalink: "/cynthias-boyfriend/"
+categories:
+- Skyler
 id: 801
-title: 'Cynthia&#8217;s Boyfriend'
-date: 2007-04-07T17:22:56+00:00
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=801
-permalink: /cynthias-boyfriend/
-categories:
-  - Skyler
 ---
+
 <div>
   April 7th, 2007
 </div>

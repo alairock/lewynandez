@@ -1,14 +1,15 @@
 ---
-id: 767
 title: That Moment When..
-date: 2013-03-24T04:23:03+00:00
+date: 2013-03-24 04:23:03 Z
+permalink: "/that-moment-when/"
+categories:
+- Skyler
+id: 767
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=767
-permalink: /that-moment-when/
-categories:
-  - Skyler
 ---
+
 <center>
   <br /> You wonder what more you could have done&#8230;<br /> What could you take back? Rewind. And redo.<br /> Could you have been a better friend or sister?<br /> Would it matter? Would it change things?</p> 
   

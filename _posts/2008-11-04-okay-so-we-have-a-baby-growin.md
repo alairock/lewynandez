@@ -1,14 +1,15 @@
 ---
-id: 47
 title: Okay, So we have a baby growin.
-date: 2008-11-04T18:25:15+00:00
+date: 2008-11-04 18:25:15 Z
+permalink: "/okay-so-we-have-a-baby-growin/"
+categories:
+- Cynthia
+id: 47
 author: Cynthia
 layout: post
 guid: http://lewynandez.com/?p=47
-permalink: /okay-so-we-have-a-baby-growin/
-categories:
-  - Cynthia
 ---
+
 <p align="center">
   World premier. There is a big head right in the middle.
 </p>
