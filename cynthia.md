@@ -1,3 +1,4 @@
+---
 title: Cynthia
 link: https://www.lewynandez.com/cynthia/
 author: lewy
@@ -9,6 +10,7 @@ comment_status: open
 post_name: lewis-cynthia
 status: publish
 post_type: page
+---
 
 # Cynthia
 
