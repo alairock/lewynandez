@@ -1,3 +1,4 @@
+---
 title: Paris
 link: http://lewynandez.com/paris-amora-lewis/
 author: lewy
@@ -9,6 +10,7 @@ comment_status: open
 post_name: paris-amora-lewis
 status: publish
 post_type: page
+---
 
 # Paris
 
