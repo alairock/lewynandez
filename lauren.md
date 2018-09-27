@@ -1,3 +1,4 @@
+---
 title: Lauren
 link: http://lewynandez.com/lauren-love-lewis/
 author: lewy
@@ -9,6 +10,7 @@ comment_status: open
 post_name: lauren-love-lewis
 status: publish
 post_type: page
+---
 
 # Lauren
 
