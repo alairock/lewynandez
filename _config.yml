@@ -1,7 +1,7 @@
 # Site settings
 title:          Lewis
 description:    "The Little Lewis Family"
-baseurl:        "/lewynandez"
+baseurl:        "/"
 url:            "https://www.sixteenink.com"
 
 theme: jekyll-theme-midnight
