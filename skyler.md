@@ -1,3 +1,4 @@
+---
 title: Skyler
 link: http://lewynandez.com/lewis-skyler/
 author: lewy
@@ -9,6 +10,7 @@ comment_status: open
 post_name: lewis-skyler
 status: publish
 post_type: page
+---
 
 # Skyler
 
